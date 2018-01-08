@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Fuck/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-aop-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-aspects-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-beans-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-context-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-context-support-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-core-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-expression-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-instrument-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-instrument-tomcat-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-jdbc-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-jms-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-orm-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-oxm-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-struts-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-test-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-tx-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-web-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-webmvc-3.2.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Fuck/lib/spring-webmvc-portlet-3.2.0.RELEASE.jar!/" />
+    </excluded>
+    <jarDirectory url="file://$PROJECT_DIR$/Fuck/lib" recursive="false" />
+  </library>
+</component>

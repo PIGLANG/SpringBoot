@@ -1,0 +1,4 @@
+# tomcat 端口号
+server:
+  port: 8086
+  context-path: /
